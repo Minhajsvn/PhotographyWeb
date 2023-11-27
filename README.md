@@ -17,4 +17,4 @@ The project contains four pages which are :
 
 All the resources used in building this site were provided by FrontEnd Mentor.
 
-Live URL = https://abdulsamadayoade.github.io/Photosnap
+Live URL =
